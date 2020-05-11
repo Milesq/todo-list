@@ -1,4 +1,7 @@
 # todo-app
-# Vue3
-# Rozwijana TodoLista
 
+## Rozwijana TodoLista
+
+## Użyte technologie
+
+- Vue3
